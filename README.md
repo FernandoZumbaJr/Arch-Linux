@@ -1,2 +1,2 @@
-# Arch-Linux
+# Qtile
 Configurations
